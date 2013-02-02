@@ -3,6 +3,8 @@ dotfiles
 
 A backup of my dotfiles
 
+Thanks @sudojosh :)
+
 
 ##### Tools I use:
 
@@ -10,6 +12,4 @@ A backup of my dotfiles
 * [RVM](http://rvm.beginrescueend.com)
 * [ZSH](http://www.zsh.org/)
 * [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh)
-* MacVIM (from [@alloy's fork of MacVIM](https://github.com/alloy/macvim))
-* [Janus](https://github.com/carlhuda/janus)
-* [Pathogen](https://github.com/tpope/vim-pathogen)
+* [Sublime Text 2](http://www.sublimetext.com/2)
